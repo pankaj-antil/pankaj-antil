@@ -1,57 +1,42 @@
-# Hi there, I'm Pankaj 👋
+<div align="center">
 
-**Java Full-Stack Developer** based in Bengaluru, focused on building resilient microservices, event-driven backends, and responsive web applications.
+<!-- Animated Typing Header -->
+<a href="https://github.com/pankaj-antil">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Pankaj+%F0%9F%91%8B;Java+Full-Stack+Software+Engineer;Spring+Boot+%7C+Microservices+%7C+React.js;Event-Driven+Systems+%26+LangChain4j+AI" alt="Typing SVG" />
+</a>
 
-- 🔭 **Currently working on:** Customer Experience Workflow Automation Tool & AI-driven system integrations using **LangChain4j**
-- 🌱 **Exploring:** Cloud-native architectures, distributed caching, and LLM orchestration in Java
-- 💬 **Ask me about:** Java, Spring Boot, Microservices, React.js, Kafka, Redis, and AWS
-- 🎓 **Education:** B.Tech in Computer Science & Engineering, NIT Delhi
+**Java Full-Stack Developer • Microservices & Distributed Systems • Bengaluru, India**
 
----
+[![Email](https://img.shields.io/badge/Email-pankaj.ntil%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pankaj.ntil@gmail.com)
+[![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-10B981?style=for-the-badge)](mailto:pankaj.ntil@gmail.com)
+[![Location](https://img.shields.io/badge/Bengaluru-India-3B82F6?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
-### 🛠️ Tech Stack
-
-**Backend & Microservices**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Resilience4j](https://img.shields.io/badge/Resilience4j-Circuit_Breaker-black?style=for-the-badge)
-![API Gateway](https://img.shields.io/badge/API_Gateway-232F3E?style=for-the-badge)
-
-**Frontend**
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-**Messaging & Caching**
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis_Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Caffeine](https://img.shields.io/badge/Caffeine_Cache-6F4E37?style=for-the-badge)
-
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**DevOps, Cloud & AI**
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![LangChain4j](https://img.shields.io/badge/LangChain4j-AI_Integration-4B0082?style=for-the-badge)
+</div>
 
 ---
 
-### 🚀 Featured Projects
+### 👨‍💻 About Me
 
-- **Customer Experience Workflow Automation Tool** — Automated customer experience pipelines combining Spring Boot microservices, event-driven messaging, and LangChain4j AI integration.
-- **Public Transport Network Analyzer** — Graph-based transit routing and network efficiency analysis tool.
-- **SentiTwitterR** — Real-time social media sentiment analysis engine.
-- **AppUsage** — Android productivity and screen-time analytics tracker.
+Software Engineer with **3+ years of experience** designing resilient backend microservices, high-throughput event pipelines, and responsive **React.js** interfaces. Experienced in taking cloud-native applications from architecture to production on **AWS**.
+
+- 🔭 **Currently Building:** *Customer Experience Workflow Automation Tool* powered by Spring Boot microservices and **LangChain4j** AI orchestration
+- ⚡ **Core Focus:** Fault-tolerant APIs (Circuit Breaker, Rate Limiter, API Gateway), distributed caching, and asynchronous event processing
+- 🎓 **Education:** B.Tech in Computer Science & Engineering — **NIT Delhi**
 
 ---
 
-### 📊 GitHub Stats
+### 🧩 System Architecture & Engineering Focus
 
-![Pankaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pankaj-antil&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj-antil&layout=compact&theme=tokyonight&hide_border=true)
+```text
+[ React.js + Material UI ] ──▶ [ API Gateway + Spring Security ]
+                                          │
+                        ┌─────────────────┴─────────────────┐
+                        ▼                                   ▼
+            [ Rate Limiter & Circuit Breaker ]   [ Redis & Caffeine Cache ]
+                        │
+                        ▼
+        [ Spring Boot Microservices + LangChain4j ]
+                        │
+        ┌───────────────┼───────────────┐
+        ▼               ▼               ▼
+ [ Apache Kafka ]  [ RabbitMQ ]  [ MySQL / PostgreSQL / MongoDB ]
